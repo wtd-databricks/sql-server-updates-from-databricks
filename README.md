@@ -1,6 +1,6 @@
 # Databricks Notebooks for SQL Server Updates
 
-I’ve prepared two distinct Databricks notebooks to showcase how to handle updates from Databricks to SQL Server. Essentially, I spun up a SQL Server instance to connect to via Databricks and provided comments in the notebooks for you to follow along. Each is optimized for a specific scenario:
+I’ve prepared two distinct Databricks notebooks to showcase how to handle updates from Databricks to SQL Server. Essentially, I spun up a SQL Server instance to connect to via Databricks and provided comments in the notebooks for you to follow along. Each is optimized for a specific scenario and found in the src sub-directory:
 
 - **Handling updates less than 10 MB in size**
 - **Handling updates greater than 10 MB in size**
